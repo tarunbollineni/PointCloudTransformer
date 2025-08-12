@@ -41,7 +41,7 @@ CLIP2Point-main/
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/CLIP2Point.git
+git clone https://github.com/tarunbollineni/CLIP2Point.git
 cd CLIP2Point-main
 pip install -r requirements.txt
 ```
